@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">JuegoAdivinar</string>
+
+
+    <string name="Texto1">Bienvenido</string>
+    <string name="Texto2">Limite para adivinar: </string>
+
+    <string name="texto3">Verificación</string>
+    <string name="texto4">Resultado</string>
+    <string name="texto5">Dijite el numero para comprobar</string>
+
+
+    <string name="Boton1">Comprobar</string>
+    <string name="Boton2">Jugar de nuevo</string>
+
+</resources>
